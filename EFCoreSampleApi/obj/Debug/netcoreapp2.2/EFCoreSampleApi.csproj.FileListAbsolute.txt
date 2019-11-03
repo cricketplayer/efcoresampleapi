@@ -1,0 +1,14 @@
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.csproj.CoreCompileInputs.cache
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.AssemblyInfoInputs.cache
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.AssemblyInfo.cs
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\bin\Debug\netcoreapp2.2\EFCoreSampleApi.deps.json
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\bin\Debug\netcoreapp2.2\EFCoreSampleApi.runtimeconfig.json
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\bin\Debug\netcoreapp2.2\EFCoreSampleApi.runtimeconfig.dev.json
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\bin\Debug\netcoreapp2.2\EFCoreSampleApi.dll
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.csprojAssemblyReference.cache
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.RazorAssemblyInfo.cache
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.RazorAssemblyInfo.cs
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.RazorTargetAssemblyInfo.cache
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\bin\Debug\netcoreapp2.2\EFCoreSampleApi.pdb
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.dll
+C:\Users\ankur.lalit\source\repos\github\EFCoreSampleApi\EFCoreSampleApi\obj\Debug\netcoreapp2.2\EFCoreSampleApi.pdb
