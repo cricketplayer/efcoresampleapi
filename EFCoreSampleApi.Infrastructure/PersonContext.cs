@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations.Schema;
 
 namespace EFCoreSampleApi.Infrastructure
 {
@@ -9,6 +10,7 @@ namespace EFCoreSampleApi.Infrastructure
         {
         }
 
+        public DbSet<Person> Persons { get; set; }
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
 
@@ -21,6 +23,7 @@ namespace EFCoreSampleApi.Infrastructure
 
     public class Person
     {
+        [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
         public int Id { get; set; }
         public string Name { get; set; }
         public List<Blog> Blogs { get; set; }

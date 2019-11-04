@@ -9,6 +9,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFCoreSampleApi.Infrastruct
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreSampleApi.Tests", "EfCoreSampleApi.Tests\EfCoreSampleApi.Tests.csproj", "{4F43F0D1-8C51-48CA-90EA-7F3CCC8840FF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EfCoreSampleApi.Application", "EfCoreSampleApi.Application\EfCoreSampleApi.Application.csproj", "{DD307D0D-16D3-412C-AC0C-A26B5E5D9F1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFCoreSampleApi.Models", "EFCoreSampleApi.Models\EFCoreSampleApi.Models.csproj", "{9350C172-D392-4686-863B-785D6C669969}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{4F43F0D1-8C51-48CA-90EA-7F3CCC8840FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4F43F0D1-8C51-48CA-90EA-7F3CCC8840FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4F43F0D1-8C51-48CA-90EA-7F3CCC8840FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD307D0D-16D3-412C-AC0C-A26B5E5D9F1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD307D0D-16D3-412C-AC0C-A26B5E5D9F1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD307D0D-16D3-412C-AC0C-A26B5E5D9F1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD307D0D-16D3-412C-AC0C-A26B5E5D9F1D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9350C172-D392-4686-863B-785D6C669969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9350C172-D392-4686-863B-785D6C669969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9350C172-D392-4686-863B-785D6C669969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9350C172-D392-4686-863B-785D6C669969}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
