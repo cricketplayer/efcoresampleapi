@@ -5,11 +5,18 @@ namespace EFCoreSampleApi.Infrastructure
 {
     public class PersonContext : DbContext
     {
+        public PersonContext(DbContextOptions<PersonContext> options) : base(options)
+        {
+        }
+
         public DbSet<Blog> Blogs { get; set; }
         public DbSet<Post> Posts { get; set; }
 
-        protected override void OnConfiguring(DbContextOptionsBuilder options)
-            => options.UseSqlServer(@"Server=.\SQLEXPRESS;Database=PersonDB;Trusted_Connection=True;");
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        { }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        { }
     }
 
     public class Person
